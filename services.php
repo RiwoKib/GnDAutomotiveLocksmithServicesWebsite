@@ -14,7 +14,7 @@
 <!-- CALL TO ACTION -->
 <div class="row py-3 px-5 bg-dark justify-content-center align-items-center">
     <div class="col-7 text-white">
-        <p>When you lose your auto keys, it can be a stressful situation. We are a reputable car locksmith in Calgary AB, offering a variety of stress-free vehicle locksmith services in Calgary and surrounding areas, including emergency & non-emergency services. We come to your doorstep, so you are never left out in the cold. Our team is always on hand to help you out.</p>
+        <p>When you lose your auto keys, it can be a stressful situation. We are a reputable car locksmith, offering a variety of stress-free vehicle locksmith services, including emergency & non-emergency services. We come to your doorstep, so you are never left out in the cold. Our team is always on hand to help you out.</p>
     </div>
 
     <div class="col-4">
@@ -24,15 +24,15 @@
 
 <!-- ALL SERVICES -->
 <div class="container">
-    <div class="row">
+    <div class="row my-5">
         <div class="col-12 text-center">
-            <h2 class=""><strong>Automotive locksmith services we provide</strong></h2>
+            <h2><strong>Automotive locksmith services we provide</strong></h2>
             <h5 class="text-info">Our main car key services</h5>
             <hr>
         </div>
     </div>
 
-    <div class="row mb-5 justify-content-center">
+    <div class="row my-5 justify-content-center align-items-center">
          
         <div class="col-4">
             <div class="card" style="width: 25rem;">
