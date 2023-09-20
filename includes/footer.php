@@ -52,7 +52,7 @@
               <ul class="">
                   <h2><a href="tel:0742874651">0742-874-651</a>
                   </h2>
-                  <button class="my-3 btn btn-warning btn-lg">Book an Appointment</button>
+                  <button class="my-3 p-3 btn btn-warning btn-lg">Book an Appointment</button>
                   <h5>info@GnDAutoLocksmith.co.ke</h5>
                   <p>Service area: Karioko, Langata SouthLands, Mbagathi Road, City Stadium.</p>
               </ul>
