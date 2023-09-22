@@ -21,6 +21,9 @@
             <h5 class="text-info">Lets Learn Together</h5>
             <hr>
         </div>
+        <div class="row col-5">
+            <input type="text" placeholder="search ...">
+        </div>
     </div>
 
     <div class="row my-5 justify-content-center align-items-center">
